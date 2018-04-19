@@ -1,0 +1,315 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:100');
+
+div{
+    outline: 1px olid pink;
+}
+
+a {
+text-decoration: none;
+}
+
+body{
+    background-color: #dbf8ff;
+    font-family: 'Raleway', sans-serif;
+    width: 100%;
+}
+
+.header{
+    height: 150px;
+    padding-bottom: 10px;
+}
+.Logo{
+    height: 75px;
+    width: 300px;
+    margin-top: 20px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.PIM{
+    color: #4a4b4c;
+    padding-left: 55px;
+    padding-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 60px;
+}
+
+.quote{
+    background-color: #ffffff;
+    max-width: 350px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav{
+    padding-top: 10px;
+    padding-left: 50px;
+    width: auto;
+    font: 10px;
+}
+
+.links a{
+    color: #4a4b4c;
+    text-decoration: none;
+}
+
+.links a:hover{
+    color: #ffc6ea;
+}
+
+.frontpage{
+    width: 1560px;
+    height: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.headerfaq{
+    background-color: #ffffff;
+    width: 140px;
+    font-size: 60px;
+    margin-left: 70px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.navfaq{
+    background-color: #ffffff;
+    width: 280px;
+    margin-left: 70px;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.navlinksfaq{
+    color: #4a4b4c;
+    padding: 10px;
+    font: 30px;
+}
+   
+.navlinksfaq a:hover{
+    color: #ffc6ea; 
+}
+
+.question1{
+    background-color: #ffffff;
+    padding: 10px;
+    margin-left: 70px;
+    margin-top: 20px; 
+    font-size: 40px;
+    font-kerning: 20px;
+    width: 540px;
+}
+
+.answer1{
+    background-color: #ffffff;
+    color: #ffc6ea;
+    font-size: 30px;
+    padding: 5px;
+    margin-left: 70px;
+    margin-top: 10px;
+    width: 1150px;
+}
+
+.question2{
+    background-color: #ffffff;
+    float: left;
+    padding: 10px;
+    margin-left: 70px;
+    margin-top: 20px; 
+    font-size: 40px;
+    font-kerning: 20px;
+}
+
+.answer2{
+    background-color: #ffffff;
+    color: #ffc6ea;
+    font-size: 30px;
+    padding: 5px;
+    margin-left: 70px;
+    margin-top: 95px;
+    width: 500px;
+}
+
+.question3{
+    background-color: #ffffff;
+    float: left;
+    padding: 10px;
+    margin-left: 70px;
+    margin-top: 20px; 
+    font-size: 40px;
+    font-kerning: 20px;
+}
+
+.answer3{
+    background-color: #ffffff;
+    color: #ffc6ea;
+    font-size: 30px;
+    padding: 5px;
+    margin-left: 70px;
+    margin-top: 95px;
+    text-decoration: underline;
+    width: 65px;
+}
+
+.milk{
+    width: 254px;
+    height: 236px;
+    margin-left: 90px;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.aboutheader{
+    background-color: #ffffff;
+    width: 325px;
+    font-size: 60px;
+    margin-left: 70px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.aboutbanner{
+    background-color: #ffffff;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 10px;
+    height: 80px;
+    width: auto;
+    height: auto;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.aboutbanner a{
+    font-size: 50px;
+    font-style: italic;
+    color: #ffc6ea;
+}
+.aboutbanner b{
+    font-size: 80px;
+    font-style: italic;
+    color: #ff9edb;
+}
+
+.aboutnav{
+    background-color: #ffffff;
+    margin-left: 70px;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 280px;
+}
+
+.aboutnavlinks{
+    color: #4a4b4c;
+    padding: 10px;
+    font: 30px;
+}
+   
+.aboutnavlinks a:hover{
+    color: #ffc6ea; 
+}
+
+.xoxo{
+    margin-left: 70px;
+    margin-right: auto;
+    margin-top: 110px;
+    
+}
+
+.gallerynav{
+    background-color: #ffffff;
+    margin-left: 70px;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 280px;
+}
+
+.gallerynavlinks{
+    color: #4a4b4c;
+    padding: 10px;
+    font: 30px;
+}
+
+.galleryheader{
+    background-color: #ffffff;
+    width: 190px;
+    font-size: 60px;
+    margin-left: 70px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.greenrose{
+    padding-left: 70px;
+    margin-top: 20px;
+    width: 390px;
+    height: 250px;
+    float: left;
+}
+
+.cryingwoman{
+    margin-top: 20px;
+    width: 330px;
+    height: 440px;
+    float: left;
+    padding-left: 70px;
+}
+
+.angel{
+    margin-top: 70px;
+    width: 390px;
+    height: 595px;
+    padding-left; 70px;
+    float: left;
+
+}
+
+.baldwoman{
+    margin-top: 80px;
+    margin-left: -280px;
+    margin-top: 550px;
+    float: left;
+    width: 242px;
+    height: 350px;
+    
+}
+
+.popart{
+    margin-top: 20px;
+    margin-left: 860px;
+    padding-left: 70px;
+    margin-right: 204px;
+    width: 616px;
+    height: 293px;       
+}
+
+.popart2{
+    margin-top: 70px;
+    padding-left: 70px;
+    margin-left: 970px;
+    width: 375px;
+    height 120px;
+}
+
+.snowwhite{
+    margin-top: 70px;
+    height: 100px;
+    width: 300px;
+    margin-left: 970px;
+    
+}
+    
+
+
+
+
+    
